@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+这是[南秋SouthAki](https://github.com/xieleihan)的测试号,负责试验调试等敏感操作.
+
+- 南秋SouthAki[点击访问](https://github.com/xieleihan) 工作,发布项目,追踪关注者等日常用途
+- 岩石糖黑茶[点击访问](https://github.com/rocksugarblacktea) 负责在公司环境提起Pr,不影响主用账号
+- 原子拾光[点击访问](https://github.com/AtomicGlimpses) 测试号
